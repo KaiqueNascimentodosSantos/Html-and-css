@@ -1,0 +1,360 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navegacao__inicial {
+
+    border: 4px transparent #050505;
+    background-color: #050505;
+    color: #fff;
+    text-align: center;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    word-break: break-all;
+}
+
+#Liks_iniciais {
+    color: #fff;
+    letter-spacing: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 4px transparent;
+    margin: auto;
+    margin-right: 1rem;
+    text-transform: capitalize;
+    text-decoration: none;
+
+}
+
+#Imagem__pizza {
+    width: 100%;
+    height: 80vh;
+    object-fit: cover;
+    object-position: top;
+    position: absolute;
+    z-index: -1;
+}
+
+.texto__pizza {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    color: #fff;
+    padding-top: 8vh;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.texto__pizza-paragrafo {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    color: #fff;
+    padding-top: 3vh;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    padding-bottom: 2vh;
+
+}
+
+#cardapio__banner {
+    border: 4px transparent #FEA400;
+    background-color: #FEA400;
+    color: #050505;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    border-radius: 6px;
+    z-index: 2;
+    left: 0;
+    right: 0;
+    margin-left: 45.5vw;
+    margin-top: 2vh;
+    display: inline-block;
+}
+
+#titulo__Principal {
+    margin-top: 47vh;
+    margin-bottom: -5rem;
+    left: 0;
+    right: 0;
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+}
+
+.Imagens__pizzas-total {
+    display: inline-block;
+    height: 100px;
+}
+
+#Imagens__Pizza {
+    height: 150px;
+    width: 250px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: 10rem;
+    margin-right: -6rem;
+    margin-left: 4rem;
+    margin-bottom: -5px;
+
+}
+
+.enquadramento {
+
+    margin-left: 8rem;
+}
+
+.textos__pizza-um {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 4px transparent;
+    background-color: #D1DBE3;
+    border-left: 4rem;
+    left: 0;
+    right: 0;
+    position: relative;
+    margin-left: 4rem;
+    padding-left: 1rem;
+    padding-right: 7.9rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.textos__pizza-dois {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 4px transparent;
+    background-color: #D1DBE3;
+    border-left: 4rem;
+    left: 0;
+    right: 0;
+    position: relative;
+    margin-left: 4rem;
+    padding-left: 1rem;
+
+    padding-right: 9.2rem;
+    padding: auto;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.textos__pizza-queijo {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 4px transparent;
+    background-color: #D1DBE3;
+    border-left: 4rem;
+    left: 0;
+    right: 0;
+    position: relative;
+    margin-left: 4rem;
+    padding-left: 1rem;
+    padding-right: 7.7rem;
+    padding: auto;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.textos__pizza-calabresa {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 4px transparent;
+    background-color: #D1DBE3;
+    border-left: 4rem;
+    left: 0;
+    right: 0;
+    position: relative;
+    margin-left: 4rem;
+    padding-left: 1rem;
+    padding-right: 9.2rem;
+    padding: auto;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.textos__pizza-vegetariana {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 4px transparent;
+    background-color: #D1DBE3;
+    border-left: 4rem;
+    left: 0;
+    right: 0;
+    position: relative;
+    margin-left: 4rem;
+    padding-left: 1rem;
+    padding-right: 6.2rem;
+    padding: auto;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.textos__pizza-frango {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 4px transparent;
+    background-color: #D1DBE3;
+    border-left: 4rem;
+    left: 0;
+    right: 0;
+    position: relative;
+    margin-left: 4rem;
+    padding-left: 1rem;
+    padding-right: 4.9rem;
+    padding: auto;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+
+
+
+#titulo__pizza {
+    font-size: 10px;
+    text-align: left;
+    margin-left: 2px;
+    margin-bottom: 10px;
+    margin-top: -20px;
+    position: relative;
+
+}
+
+p {
+    font-size: 10px;
+    margin-left: 2px;
+    position: relative;
+    text-align: left;
+}
+
+#Imagem__pizza-final {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    height: 10rem;
+    margin-top: 12vh;
+    border: 2px transparent;
+    z-index: 4;
+    position: absolute;
+}
+
+.texto_final {
+
+    z-index: 5;
+    left: 0;
+    right: 0;
+    padding-top: 20vh;
+    padding-left: 68vh;
+    position: relative;
+}
+
+#titulo_final {
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    letter-spacing: 1px;
+    padding-left: 26vh;
+    padding-bottom: 1rem;
+    text-transform: capitalize;
+}
+
+#paragrafo_final {
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    padding-top: 1vh;
+    left: 0;
+    right: 0;
+    position: relative;
+    font-size: 14px;
+    font-weight: bold;
+    border: 4px dotted;
+    display: inline-block;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+h2 {
+    padding-top: 1rem;
+    text-align: center;
+    padding-left: -5rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#contato_paragrafo {
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    padding-top: 1rem;
+}
+
+.contatos_esquadro {
+    text-align: center;
+    margin-top: 1rem;
+
+}
+
+#dados_endereco {
+    display: inline-block;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    position: relative;
+    text-align: center;
+    font-size: 11px;
+}
+
+#dados_telefone {
+    display: inline-block;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    position: relative;
+    text-align: center;
+    padding-left: 3rem;
+    font-size: 11px;
+}
+
+#dados_email {
+    display: inline-block;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    position: relative;
+    text-align: center;
+    padding-left: 3rem;
+    font-size: 11px;
+}
+
+#dados_email {
+    display: inline-block;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    position: relative;
+    text-align: center;
+    padding-left: 3rem;
+    font-size: 11px;
+}
+
+#dados_funcionamento {
+    display: inline-block;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    position: relative;
+    text-align: center;
+    padding-left: 3rem;
+    font-size: 11px;
+}
