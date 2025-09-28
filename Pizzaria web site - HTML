@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizzaria</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="navegacao__inicial">
+        <nav>
+
+            <a id="Liks_iniciais" href="">home</a>
+            <a id="Liks_iniciais" href="">Cárdapio</a>
+            <a id="Liks_iniciais" href="">sobre nós</a>
+            <a id="Liks_iniciais" href="">Contato</a>
+
+        </nav>
+    </header>
+</body>
+
+</html>
+
+<main>
+    <section>
+        <img id="Imagem__pizza" src="https://assets-v2.circle.so/vx7kjq39bl4rhaz7gui5n9lueufl" alt="pizza">
+        <div class="texto__pizza">
+            <h1 class="texto__pizza">Bem Vindo a Kaique's pizza</h1>
+            <p class="texto__pizza-paragrafo">Saborosas Pizzas feitas para você!</p>
+        </div>
+
+        <nav>
+            <a id="cardapio__banner" href="">Cárdapio</a>
+        </nav>
+    </section>
+
+    <article>
+        <h1 id="titulo__Principal">Cardápio</h1>
+    </article>
+    <div class="enquadramento">
+        <section>
+
+            <span class="Imagens__pizzas-total">
+                <img id="Imagens__Pizza" src="https://assets-v2.circle.so/s74lgdfz7jn4iluy7mxq7qwukfe0"
+                    alt="pizza Margheritta">
+                <div class="textos__pizza-um">
+                    <h1 id="titulo__pizza">Pizza Margheritta</h1>
+                    <p>Molho de tomate, <br>mussarela,manjericão <br>fresco </p>
+                </div>
+            </span>
+
+            <span class="Imagens__pizzas-total">
+                <img id="Imagens__Pizza" src="https://assets-v2.circle.so/s74lgdfz7jn4iluy7mxq7qwukfe0"
+                    alt="pizza Margheritta">
+                <div class="textos__pizza-dois">
+                    <h1 id="titulo__pizza">Pizza Pepperoni</h1>
+                    <p>Molho de tomate, <br>pepperoni,<br>Queijo Mussarela </p>
+                </div>
+            </span>
+
+            <span class="Imagens__pizzas-total">
+                <img id="Imagens__Pizza" src="https://assets-v2.circle.so/s74lgdfz7jn4iluy7mxq7qwukfe0"
+                    alt="pizza Margheritta">
+                <div class="textos__pizza-queijo">
+                    <h1 id="titulo__pizza">Pizza Quatro Queijos</h1>
+                    <p>Molho de tomate, <br>mussarela,Parmesão <br>Gorgonzola, Provolone </p>
+                </div>
+            </span>
+
+            <span class="Imagens__pizzas-total">
+                <img id="Imagens__Pizza" src="https://assets-v2.circle.so/s74lgdfz7jn4iluy7mxq7qwukfe0"
+                    alt="pizza Margheritta">
+                <div class="textos__pizza-calabresa">
+                    <h1 id="titulo__pizza">Pizza Calabresa</h1>
+                    <p>Molho de tomate, <br>Calabresa,Cebola <br>Queijo Mussarela </p>
+                </div>
+            </span>
+
+            <span class="Imagens__pizzas-total">
+                <img id="Imagens__Pizza" src="https://assets-v2.circle.so/s74lgdfz7jn4iluy7mxq7qwukfe0"
+                    alt="pizza Margheritta">
+                <div class="textos__pizza-frango">
+                    <h1 id="titulo__pizza">Pizza Frango com catupiry</h1>
+                    <p>Molho de tomate, <br>Frango desfiado,catupiry, Milho <br>Queijo mussarela </p>
+                </div>
+            </span>
+
+            <span class="Imagens__pizzas-total">
+                <img id="Imagens__Pizza" src="https://assets-v2.circle.so/s74lgdfz7jn4iluy7mxq7qwukfe0"
+                    alt="pizza Margheritta">
+                <div class="textos__pizza-vegetariana">
+                    <h1 id="titulo__pizza">Pizza Vegetariana</h1>
+                    <p>Molho de tomate, <br>Pimentões,Cogumelos <br>Azeitonas, quejo mussarela </p>
+                </div>
+            </span>
+
+            <span class="Imagens__pizzas-total">
+                <img id="Imagens__Pizza" src="https://assets-v2.circle.so/s74lgdfz7jn4iluy7mxq7qwukfe0"
+                    alt="pizza Margheritta">
+                <div class="textos__pizza-um">
+                    <h1 id="titulo__pizza">Pizza Margheritta</h1>
+                    <p>Molho de tomate, <br>mussarela,manjericão <br>fresco </p>
+                </div>
+            </span>
+
+            <span class="Imagens__pizzas-total">
+                <img id="Imagens__Pizza" src="https://assets-v2.circle.so/s74lgdfz7jn4iluy7mxq7qwukfe0"
+                    alt="pizza Margheritta">
+                <div class="textos__pizza-um">
+                    <h1 id="titulo__pizza">Pizza Margheritta</h1>
+                    <p>Molho de tomate, <br>mussarela,manjericão <br>fresco </p>
+                </div>
+            </span>
+
+            <span class="Imagens__pizzas-total">
+                <img id="Imagens__Pizza" src="https://assets-v2.circle.so/s74lgdfz7jn4iluy7mxq7qwukfe0"
+                    alt="pizza Margheritta">
+                <div class="textos__pizza-um">
+                    <h1 id="titulo__pizza">Pizza Margheritta</h1>
+                    <p>Molho de tomate, <br>mussarela,manjericão <br>fresco </p>
+                </div>
+            </span>
+
+            <span class="Imagens__pizzas-total">
+                <img id="Imagens__Pizza" src="https://assets-v2.circle.so/s74lgdfz7jn4iluy7mxq7qwukfe0"
+                    alt="pizza Margheritta">
+                <div class="textos__pizza-um">
+                    <h1 id="titulo__pizza">Pizza Margheritta</h1>
+                    <p>Molho de tomate, <br>mussarela,manjericão <br>fresco </p>
+                </div>
+            </span>
+
+            <span class="Imagens__pizzas-total">
+                <img id="Imagens__Pizza" src="https://assets-v2.circle.so/s74lgdfz7jn4iluy7mxq7qwukfe0"
+                    alt="pizza Margheritta">
+                <div class="textos__pizza-um">
+                    <h1 id="titulo__pizza">Pizza Margheritta</h1>
+                    <p>Molho de tomate, <br>mussarela,manjericão <br>fresco </p>
+                </div>
+            </span>
+
+            <span class="Imagens__pizzas-total">
+                <img id="Imagens__Pizza" src="https://assets-v2.circle.so/s74lgdfz7jn4iluy7mxq7qwukfe0"
+                    alt="pizza Margheritta">
+                <div class="textos__pizza-um">
+                    <h1 id="titulo__pizza">Pizza Margheritta</h1>
+                    <p>Molho de tomate, <br>mussarela,manjericão <br>fresco </p>
+                </div>
+            </span>
+
+    </div>
+
+    <section>
+        <img id="Imagem__pizza-final" src="https://assets-v2.circle.so/kky0tfxrvxzps0mbr9lh7jv8j3ep" alt="">
+        <div class="texto_final">
+            <h1 id="titulo_final">sobre nós</h1>
+            <p id="paragrafo_final">Nossa Pizzaria é dedicada em  lhe deixar gordo e feliz !</p>
+
+        </div>
+    </section>
+
+</main>
+
+<footer>
+
+    <h2>Contato</h2>
+
+    <p id="contato_paragrafo"> Entre em contato para pedidos ou tirar suas dúvidas.</p>
+    <div class="contatos_esquadro">
+        <section class="dados_fim">
+            <p id="dados_endereco"><strong>Endereço</strong>: Avenida kaique de setembro, nº123 <br> centro, Cidade
+                kaiquiolandia/RJ Cep</p>
+            <p id="dados_telefone"><strong>Telefone</strong>: (01) 5555-5555</p>
+            <p id="dados_email"><strong>Email</strong>: contato@alessios.pizza</p>
+            <p id="dados_funcionamento"><strong>Horário de Funcionamento</strong>: Segunda a terça: 09h00 às 10h00</p>
+    </div>
+    </section>
+</footer>
